@@ -17,4 +17,4 @@ Links
 
 Sponsoring
 - [Andreas@PayPal](https://www.paypal.me/andreasdrewke)
-- [Github Sponsors](https://github.com/sponsors/andreasdr)
+- [Andreas@Github Sponsors](https://github.com/sponsors/andreasdr)
