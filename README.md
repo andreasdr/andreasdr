@@ -10,11 +10,10 @@ So most of the time I am developing the TDME2 3D engine with my mates from Mindt
 If you have a interest in my work it might also be interesting to sponsor me.
 
 Links
-- [Andreas@LinkedIn](https://de.linkedin.com/pub/andreas-drewke/26/15/490)
-- [Andreas@GitHub](https://github.com/andreasdr)
-- [Andreas@Mindty](https://www.mindty.com/andreasdrewke)
-- [Andreas@Discogs](https://www.discogs.com/artist/6121830-Andreas-Drewke)
+- [andreasdr@drewke.net](https://drewke.net)
+- [andreasdr@Mindty](https://www.mindty.com/andreasdrewke)
+- [andreasdr@LinkedIn](https://de.linkedin.com/pub/andreas-drewke/26/15/490)
 
 Sponsoring
-- [Andreas@PayPal](https://www.paypal.me/andreasdrewke)
-- [Andreas@Github Sponsors](https://github.com/sponsors/andreasdr)
+- [andreasdr@PayPal](https://www.paypal.me/andreasdrewke)
+- [andreasdr@Github Sponsors](https://github.com/sponsors/andreasdr)
