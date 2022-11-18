@@ -18,4 +18,4 @@ Links
 
 Sponsoring
 - [andreasdr@paypal.me](https://www.paypal.me/andreasdrewke)
-- [andreasdr@github/sponsors](https://github.com/sponsors/andreasdr)
+- [andreasdr@github.com/sponsors](https://github.com/sponsors/andreasdr)
