@@ -12,6 +12,6 @@ So most of the time I am developing the [TDME2](https://github.com/andreasdr/tdm
 I also develop and maintain our C++ transpilable, easy to use, scripting language called [MinitScript](https://github.com/andreasdr/minitscript).
 
 Links
-- [andreasdr@drewke.net](https://drewke.net)
+- [andreas@drewke.net](https://drewke.net)
 - [andreasdr@linkedin.com](https://de.linkedin.com/pub/andreas-drewke/26/15/490)
 - [andreasdr@freelancermap.de](https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/496543-profil-andreas-drewke-freiberufler-als-softwareentwickler.html)
