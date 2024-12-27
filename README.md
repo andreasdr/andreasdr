@@ -13,5 +13,5 @@ I also develop and maintain our C++ transpilable, easy to use, scripting languag
 
 Links
 - [andreas@drewke.net](https://drewke.net)
-- [andreasdr@linkedin.com](https://de.linkedin.com/pub/andreas-drewke/26/15/490)
-- [andreasdr@freelancermap.de](https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/496543-profil-andreas-drewke-freiberufler-als-softwareentwickler.html)
+- [andreas@linkedin.com](https://de.linkedin.com/pub/andreas-drewke/26/15/490)
+- [andreas@freelancermap.de](https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/496543-profil-andreas-drewke-freiberufler-als-softwareentwickler.html)
