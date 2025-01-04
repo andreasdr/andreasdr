@@ -10,8 +10,9 @@ Here nowadays I am mostly into game development plus game development eco system
 So most of the time I am developing the [TDME2](https://github.com/andreasdr/tdme2) 3D engine, which aims to be platform independant and lightweight, but still pretty complete.
 
 I also develop and maintain our
-- C++ transpilable, easy to use, scripting language called [MinitScript](https://github.com/andreasdr/minitscript).
-- video games network library [Yannet](https://github.com/andreasdr/yannet).
+- C++ transpilable, easy to use, scripting language called [MinitScript](https://github.com/andreasdr/minitscript)
+- video games network library [Yannet](https://github.com/andreasdr/yannet)
+- A graphical user interface developed in C++ for games named [A-GUI](https://github.com/andreasdr/a-gui)
 
 Links
 - [Andreas at drewke.net](https://drewke.net)
