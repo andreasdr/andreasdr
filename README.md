@@ -12,7 +12,7 @@ So most of the time I am developing the [TDME2](https://github.com/andreasdr/tdm
 I also develop and maintain our
 - C++ transpilable, easy to use, scripting language called [MinitScript](https://github.com/andreasdr/minitscript)
 - C++ based graphical user interface for games named [A-GUI](https://github.com/andreasdr/a-gui)
-- video games network library [Yannet](https://github.com/andreasdr/yannet)
+- C++ network library for games [Yannet](https://github.com/andreasdr/yannet)
 
 Links
 - [Andreas at drewke.net](https://drewke.net)
