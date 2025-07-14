@@ -14,6 +14,10 @@ I also develop and maintain our
 - C++ based graphical user interface, originally for games, named [A-GUI](https://github.com/andreasdr/a-gui)
 - C++ network library, originally for games, named [Yannet](https://github.com/andreasdr/yannet)
 
+I plan to 
+- extract some sort of (mini) Electron from TDME2, so this could also be interesting in future as with TDME2 (mini) Electron you could easily create stunning UI desktop/mobile applications even by using a adapted code and WYSIWYG UI editor, ...
+- develop a UDP based browser using yannet and A-GUI and MinitScript
+
 Links
 - [Andreas at drewke.net](https://drewke.net)
 - [Andreas at linkedin.com](https://de.linkedin.com/pub/andreas-drewke/26/15/490)
