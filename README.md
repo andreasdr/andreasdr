@@ -7,7 +7,7 @@ I already professionally worked in the areas of content management systems, know
 Currently I am working as freelancer, so feel free to send me an email, if you like to have a collaboration.
 
 Here nowadays I am mostly into game development plus game development eco systems that allow to create platform independent games as I was from the beginning an (open source) operating system enthusiast - I love them, I like to support them.
-So most of the time I am developing the [TDME2](https://github.com/andreasdr/tdme2) 3D engine, which aims to be platform independant and lightweight, but still pretty complete.
+So most of the time I am developing the C++ based [TDME2](https://github.com/andreasdr/tdme2) 3D engine, which aims to be platform independant and lightweight, but still pretty complete.
 
 I also develop and maintain our
 - C++ transpilable, easy to use, scripting language called [MinitScript](https://github.com/andreasdr/minitscript)
@@ -16,7 +16,7 @@ I also develop and maintain our
 
 I plan to 
 - extract some sort of (mini) Electron from [TDME2](https://github.com/andreasdr/tdme2), so this could also be interesting in future as with [TDME2](https://github.com/andreasdr/tdme2) (mini) Electron you could easily create stunning UI desktop/mobile applications even by using a adapted code and WYSIWYG UI editor, ...
-- develop a UDP based browser using [Yannet](https://github.com/andreasdr/yannet) and [A-GUI](https://github.com/andreasdr/a-gui) and [MinitScript](https://github.com/andreasdr/minitscript)
+- develop a UDP based browser using [Yannet](https://github.com/andreasdr/yannet), [A-GUI](https://github.com/andreasdr/a-gui) and [MinitScript](https://github.com/andreasdr/minitscript)
 
 Links
 - [Andreas at drewke.net](https://drewke.net)
