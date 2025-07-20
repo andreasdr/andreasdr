@@ -17,7 +17,7 @@ I also develop and maintain our
 I plan to 
 - extract some sort of (mini) Electron from [TDME2](https://github.com/andreasdr/tdme2), so this could also be interesting in future as with [TDME2](https://github.com/andreasdr/tdme2) (mini) Electron you could easily create stunning UI desktop/mobile applications even by using a adapted code and WYSIWYG UI editor, ...
 - develop a UDP based browser using [Yannet](https://github.com/andreasdr/yannet), [A-GUI](https://github.com/andreasdr/a-gui) and [MinitScript](https://github.com/andreasdr/minitscript)
-- develop a artifical intelligence that is able to understand language and thus a (game's) world and can talk about it, in terms of questions and answers, and such, it will be named "talkative", its main purpose will be communication between nonplayer characters and nonplayer characters as well as nonplayer characters and player characters
+- develop a artifical intelligence that is able to understand and produce language and which is able to do information processing and storage, and thus a (game's) world and can talk about it, in terms of questions and answers, and such, it will be named "talkative", its main purpose will be communication between nonplayer characters and nonplayer characters as well as nonplayer characters and player characters
 - develop a kind of "artifical intelligence" that is able to produce music in response to (perception) signals, it will be called "LiveMusic" 
 
 Links
