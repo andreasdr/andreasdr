@@ -16,6 +16,7 @@ I also develop and maintain our
 
 I plan to
 - extract and release [TDME2](https://github.com/andreasdr/tdme2) installer as a own product in a separate repository
+- extract and release a JSON validator from [BBT](https://github.com/andreasdr/bbt) that is able to validate the JSON's (sub) data primitives(int, float, bool, string), array and dictionary data types by a textual definition 
 - develop a artifical intelligence that is able to understand and produce language, which is able to do information processing and storage, so it can talk about a (game's) world, in terms of questions and answers, and such, it will be named "Talkative", its main purpose will be communication between nonplayer characters and nonplayer characters(where a player character can listen to), as well as nonplayer characters and player characters
 - develop a kind of "artifical intelligence" that is able to produce music in response to (perception) signals, it will be called "LiveMusic" 
 - extract some sort of (mini) Electron from [TDME2](https://github.com/andreasdr/tdme2), so this could also be interesting in future as with [TDME2](https://github.com/andreasdr/tdme2) (mini) Electron you could easily create stunning UI desktop/mobile applications even by using a adapted code and WYSIWYG UI editor, ...
