@@ -26,3 +26,6 @@ Links
 - [Andreas at drewke.net](https://drewke.net)
 - [Andreas at linkedin.com](https://de.linkedin.com/pub/andreas-drewke/26/15/490)
 - [Andreas at freelancermap.de](https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/496543-profil-andreas-drewke-freiberufler-als-softwareentwickler.html)
+
+I am also a musician with about 10 years of professional music work. For example see
+- https://www.discogs.com/release/11084419-Story-Telling-Fishes-Home
